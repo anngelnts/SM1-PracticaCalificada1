@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Práctica Calificada 1</string>
+    <string name="activity_title">PRÁCTICA CALIFICADA</string>
+    <string name="field_first_phrase">Primera frase</string>
+    <string name="field_second_phrase">Segunda frase</string>
+    <string name="button_clean">Limpiar</string>
+    <string name="button_process">Procesar</string>
+    <string name="text_equals">¿Son iguales?</string>
+    <string name="text_equals_value">NO</string>
+    <string name="closed_vowels">Vocales cerrados</string>
+    <string name="fp_closed_vowels">Primera frase</string>
+    <string name="fp_closed_vowels_value">1</string>
+    <string name="sp_closed_vowels">Segunda frase</string>
+    <string name="sp_closed_vowels_value">2</string>
+</resources>

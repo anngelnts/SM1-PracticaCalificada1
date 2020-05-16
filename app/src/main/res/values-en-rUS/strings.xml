@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Qualified Practice 1</string>
+    <string name="activity_title">QUALIFIED PRACTICE</string>
+    <string name="field_first_phrase">First sentence</string>
+    <string name="field_second_phrase">Second sentence</string>
+    <string name="button_clean">Clean</string>
+    <string name="button_process">Process</string>
+    <string name="text_equals">They are equal?</string>
+    <string name="text_equals_value">NO</string>
+    <string name="closed_vowels">Closed vowels</string>
+    <string name="fp_closed_vowels">First sentence</string>
+    <string name="fp_closed_vowels_value">1</string>
+    <string name="sp_closed_vowels">Second sentence</string>
+    <string name="sp_closed_vowels_value">2</string>
+</resources>
